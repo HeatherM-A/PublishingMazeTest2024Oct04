@@ -1,0 +1,72 @@
+{
+  "version": "3.68.28887.0",
+  "course_id": "6FoZtCUKIdl",
+  "title": "Authorship Quiz",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Authorship Conundrum"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6Wjw9RxVocX",
+      "title": "Conundrum 1",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5olZN6NCCAl",
+      "title": "What should I do?",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6BSmQ8tMx4c",
+      "title": "Advice 1",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6fBulR2625p",
+      "title": "Scenario 1",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5UkyoDpjlar",
+      "title": "Pick One",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "63tTtWUzQ0Y",
+      "title": "Correct Answer 1",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6KQUuMmKov3",
+      "title": "Scenario 1",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6FPLHTQzlmS",
+      "title": "Pick One",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5j6Acy6pmr9",
+      "title": "Correct Answer 1",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "5yOT5ly2lmp",
+      "title": "Correct Answer 1",
+      "scene_index": "1.10"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 634
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
